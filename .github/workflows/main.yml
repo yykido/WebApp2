@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Set up environment
+    # - name: Set up environment
       # Add steps to set up your environment, e.g., installing dependencies
 
     - name: Compile Code
