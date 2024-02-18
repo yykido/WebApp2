@@ -15,5 +15,5 @@ jobs:
       # Add steps to set up your environment, e.g., installing dependencies
 
     - name: Compile Code
-      run: make
+      run: echo "Hello world!!! hahaha"
       # Replace 'make' with the command you use to compile your code
